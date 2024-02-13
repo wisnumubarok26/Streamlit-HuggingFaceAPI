@@ -4,7 +4,7 @@ from model import query
 
 ### Streamlit
 
-st.header('Sentimen Analisis')
+st.header('Emotion Classifier')
 st.text('Muhamad Wisnu Mubarok')
 st.title('   ')
 st.text('')
